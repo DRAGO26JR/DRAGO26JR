@@ -31,7 +31,7 @@ Project created by <a href="https://github.com/drago-jr">drago-jr</a> to make it
 <p align="center">
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://" target="blank"><img align="center" srchttps://chat.whatsapp.com/B5WbOLlbcWr3GdPMO22LwJ="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
