@@ -99,12 +99,8 @@ Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributors
-`dragp ser`
+`drago ser`
 `luiz x`
-`prajwal`
-`sreekanth`
-`achu myrn`
-`proffessor`
         
         
 ## License
